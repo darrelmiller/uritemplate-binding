@@ -3,7 +3,7 @@ title: "URI Template Binding"
 abbrev: "URITemplateBinding"
 category: info
 
-docname: draft-miller-uritemplate-binding
+docname: draft-miller-uritemplate-binding-
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
